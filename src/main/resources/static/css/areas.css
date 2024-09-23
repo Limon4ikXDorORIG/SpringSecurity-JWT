@@ -1,0 +1,32 @@
+
+div .width25 {
+    width: 25%;
+}
+
+div .width50 {
+    width: 50%;
+}
+
+div .width75 {
+    width: 75%;
+}
+
+div .width100 {
+    width: 100%;
+}
+
+div .height25 {
+    height: 25%;
+}
+
+div .height50 {
+    height: 50%;
+}
+
+div .height75 {
+    height: 75%;
+}
+
+div .height100 {
+    height: 100%;
+}

@@ -1,0 +1,13 @@
+
+body {
+    background: #141725;
+}
+
+.glowing {
+    filter: drop-shadow(3px 3px rgb(250, 55, 55));
+}
+
+.test1 {
+    color: rgb(55, 250, 250);
+    filter: drop-shadow(1px 1px rgb(250, 55, 55));
+}
